@@ -1,0 +1,3 @@
+C:\Program Files (x86)\TP-Link\TP-Link Wireless Adapter WPS Tool
+
+PATH OF DRIVER OF WIFI USB
